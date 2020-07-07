@@ -1,0 +1,753 @@
+fileFormatVersion: 2
+guid: c1309728d61c3bc41b9c2a8ca542ede3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ANTENNA BASE LEFT
+    100004: ANTENNA BASE RIGHT
+    100006: ANTENNA XUI SECOND HALF-PACK
+    100008: BIG STACK BOX
+    100010: blinker front left
+    100012: blinker front right
+    100014: blinker left left
+    100016: blinker right right
+    100018: BLINKERS
+    100020: BODY UNIFIED ZERO DIMENSION
+    100022: bottom part
+    100024: brake
+    100026: Building_F003
+    100028: Building_F004
+    100030: Building_F005
+    100032: Building_F006
+    100034: Building_F007
+    100036: Building_F008
+    100038: Building_F009
+    100040: Building_F010
+    100042: Building_F011
+    100044: Building_F012
+    100046: Building_F013
+    100048: Building_F014
+    100050: buzd
+    100052: CABIN
+    100054: cabin
+    100056: CHASIS
+    100058: clutch
+    100060: CONTROL DEVICES
+    100062: Cube
+    100064: Cup holder right
+    100066: Cup holder right001
+    100068: Cylinder0001
+    100070: Cylinder005
+    100072: Cylinder007
+    100074: derailleur
+    100076: DOOR BUZD INSIDE
+    100078: door buzd left rear
+    100080: DOOR BUZD REAR
+    100082: door buzd right rear001
+    100084: door cabin left
+    100086: door cabin right
+    100088: door handle cabin exterior left
+    100090: door handle cabin exterior right
+    100092: door handle cabin inner left
+    100094: door handle cabin inner right
+    100096: DOOR LEFT
+    100098: DOOR RIGHT
+    100100: door window left
+    100102: door window raiser left
+    100104: door window raiser right
+    100106: door window right
+    100108: door window001
+    100110: door window002
+    100112: door window003
+    100114: door window004
+    100116: DOORS
+    100118: drive disk back left
+    100120: drive disk front left
+    100122: drive disk middle left
+    100124: drive disk middle right
+    100126: driver cabin lamp
+    100128: driver lamp
+    100130: Feader 3Cap Up
+    100132: front window
+    100134: Full Mast Stage 1 right
+    100136: Full Mast Stage 2 left
+    100138: Full Mast Stage 2 right
+    100140: Full Mast Stage 3 right
+    100142: Full Mast Stage 4 left
+    100144: Full Mast Stage 4 right
+    100146: gas
+    100148: glas.002
+    100150: glas.003
+    100152: Glass Holder Holder.004
+    100154: handbrake
+    100156: hood
+    100158: left kung table
+    100160: lighting front
+    100162: lighting up
+    100164: LOGARITHMIC ANTENNA FIRST HALF-PACK
+    100166: LOGARITHMIC ANTENNA SECOND HALF-PACK
+    100168: Long Box
+    100170: Long Box Closer
+    100172: Long Stack 1
+    100174: Long Stack 1.001
+    100176: Long Stack 2
+    100178: Long Stack 2.001
+    100180: Long Stack 3
+    100182: Long Stack 3.001
+    100184: Long Stack 4
+    100186: Long Stack 4.001
+    100188: Long Stack 5
+    100190: Long Stack 5.001
+    100192: Long Stack 6
+    100194: Long Stack 6.001
+    100196: MERSEDES LEFT
+    100198: MERSEDES RIGHT
+    100200: mirror left
+    100202: mirror right
+    100204: MIRRORS
+    100206: Object019
+    100208: Object020
+    100210: Object021
+    100212: Object022
+    100214: Object023
+    100216: Plane.007
+    100218: PORTABLE COIL LEFT 5
+    100220: PORTABLE COIL LEFT 6
+    100222: PORTABLE COIL RIGHT 1
+    100224: PORTABLE COIL RIGHT 6
+    100226: PowerBoardCap
+    100228: Rectangle008
+    100230: Rectangle008 1
+    100232: seat
+    100234: Short Door Closer
+    100236: Side_door.008
+    100238: Side_door.009
+    100240: Side_door.010
+    100242: Small Stack 1
+    100244: Small Stack 1.001
+    100246: Small Stack 2
+    100248: Small Stack 2.001
+    100250: Small Stack 3
+    100252: Small Stack 3.001
+    100254: Small Stack 4
+    100256: Small Stack 4.001
+    100258: Small Stack 5
+    100260: Small Stack 5.001
+    100262: Small Stack 6
+    100264: Small Stack 6.001
+    100266: SMALL STACK BOX
+    100268: spare wheel
+    100270: stairs
+    100272: steering wheel
+    100274: straight kung table
+    100276: straight kung table.001
+    100278: table with computer
+    100280: tire back right
+    100282: tire front right
+    100284: transmission control
+    100286: wardrobe station rigth first
+    100288: WHEEL BACK RIGHT
+    100290: WHEEL FRONT LEFT
+    100292: WHEEL FRONT RIGHT
+    100294: WHEEL MIDDLE LEFT
+    100296: WHEEL MIDDLE RIGHT
+    100298: wheel mounting
+    100300: WHEELS
+    100302: windscreen wiper
+    400000: //RootNode
+    400002: ANTENNA BASE LEFT
+    400004: ANTENNA BASE RIGHT
+    400006: ANTENNA XUI SECOND HALF-PACK
+    400008: BIG STACK BOX
+    400010: blinker front left
+    400012: blinker front right
+    400014: blinker left left
+    400016: blinker right right
+    400018: BLINKERS
+    400020: BODY UNIFIED ZERO DIMENSION
+    400022: bottom part
+    400024: brake
+    400026: Building_F003
+    400028: Building_F004
+    400030: Building_F005
+    400032: Building_F006
+    400034: Building_F007
+    400036: Building_F008
+    400038: Building_F009
+    400040: Building_F010
+    400042: Building_F011
+    400044: Building_F012
+    400046: Building_F013
+    400048: Building_F014
+    400050: buzd
+    400052: CABIN
+    400054: cabin
+    400056: CHASIS
+    400058: clutch
+    400060: CONTROL DEVICES
+    400062: Cube
+    400064: Cup holder right
+    400066: Cup holder right001
+    400068: Cylinder0001
+    400070: Cylinder005
+    400072: Cylinder007
+    400074: derailleur
+    400076: DOOR BUZD INSIDE
+    400078: door buzd left rear
+    400080: DOOR BUZD REAR
+    400082: door buzd right rear001
+    400084: door cabin left
+    400086: door cabin right
+    400088: door handle cabin exterior left
+    400090: door handle cabin exterior right
+    400092: door handle cabin inner left
+    400094: door handle cabin inner right
+    400096: DOOR LEFT
+    400098: DOOR RIGHT
+    400100: door window left
+    400102: door window raiser left
+    400104: door window raiser right
+    400106: door window right
+    400108: door window001
+    400110: door window002
+    400112: door window003
+    400114: door window004
+    400116: DOORS
+    400118: drive disk back left
+    400120: drive disk front left
+    400122: drive disk middle left
+    400124: drive disk middle right
+    400126: driver cabin lamp
+    400128: driver lamp
+    400130: Feader 3Cap Up
+    400132: front window
+    400134: Full Mast Stage 1 right
+    400136: Full Mast Stage 2 left
+    400138: Full Mast Stage 2 right
+    400140: Full Mast Stage 3 right
+    400142: Full Mast Stage 4 left
+    400144: Full Mast Stage 4 right
+    400146: gas
+    400148: glas.002
+    400150: glas.003
+    400152: Glass Holder Holder.004
+    400154: handbrake
+    400156: hood
+    400158: left kung table
+    400160: lighting front
+    400162: lighting up
+    400164: LOGARITHMIC ANTENNA FIRST HALF-PACK
+    400166: LOGARITHMIC ANTENNA SECOND HALF-PACK
+    400168: Long Box
+    400170: Long Box Closer
+    400172: Long Stack 1
+    400174: Long Stack 1.001
+    400176: Long Stack 2
+    400178: Long Stack 2.001
+    400180: Long Stack 3
+    400182: Long Stack 3.001
+    400184: Long Stack 4
+    400186: Long Stack 4.001
+    400188: Long Stack 5
+    400190: Long Stack 5.001
+    400192: Long Stack 6
+    400194: Long Stack 6.001
+    400196: MERSEDES LEFT
+    400198: MERSEDES RIGHT
+    400200: mirror left
+    400202: mirror right
+    400204: MIRRORS
+    400206: Object019
+    400208: Object020
+    400210: Object021
+    400212: Object022
+    400214: Object023
+    400216: Plane.007
+    400218: PORTABLE COIL LEFT 5
+    400220: PORTABLE COIL LEFT 6
+    400222: PORTABLE COIL RIGHT 1
+    400224: PORTABLE COIL RIGHT 6
+    400226: PowerBoardCap
+    400228: Rectangle008
+    400230: Rectangle008 1
+    400232: seat
+    400234: Short Door Closer
+    400236: Side_door.008
+    400238: Side_door.009
+    400240: Side_door.010
+    400242: Small Stack 1
+    400244: Small Stack 1.001
+    400246: Small Stack 2
+    400248: Small Stack 2.001
+    400250: Small Stack 3
+    400252: Small Stack 3.001
+    400254: Small Stack 4
+    400256: Small Stack 4.001
+    400258: Small Stack 5
+    400260: Small Stack 5.001
+    400262: Small Stack 6
+    400264: Small Stack 6.001
+    400266: SMALL STACK BOX
+    400268: spare wheel
+    400270: stairs
+    400272: steering wheel
+    400274: straight kung table
+    400276: straight kung table.001
+    400278: table with computer
+    400280: tire back right
+    400282: tire front right
+    400284: transmission control
+    400286: wardrobe station rigth first
+    400288: WHEEL BACK RIGHT
+    400290: WHEEL FRONT LEFT
+    400292: WHEEL FRONT RIGHT
+    400294: WHEEL MIDDLE LEFT
+    400296: WHEEL MIDDLE RIGHT
+    400298: wheel mounting
+    400300: WHEELS
+    400302: windscreen wiper
+    2100000: font-lights.003
+    2100002: vehiclelights02.003
+    2100004: No Name
+    2100006: Material_1.016
+    2100008: Material_1.017
+    2100010: green-army-metal-material.048
+    2100012: green-army-metal-material.052
+    2100014: green-army-metal-material.053
+    2100016: Material_1.014
+    2100018: Material_1.015
+    2100020: sp_kolesa [env,.008
+    2100022: green-army-metal-material.057
+    2100024: green-army-metal-material.044
+    2100026: green-army-metal-material.051
+    2100028: green-army-metal-material.046
+    2100030: sp_pribors [env.002
+    2100032: rul [env,spec].002
+    2100034: vsacoe [env,spe.002
+    2100036: simple-glass-material.005
+    2100038: material [env,s.003
+    2100040: Matte_ FF000000.002
+    2100042: undernith-dark-material.020
+    2100044: simple-mirrow-material.003
+    2100046: sp_kolesa [env,.007
+    2100048: green-army-metal-material.045
+    2100050: 'Material #64'
+    2100052: Buildings
+    2100054: green-army-metal-material.056
+    2100056: green-army-metal-material.055
+    2100058: green-army-metal-material.054
+    2100060: Material.002
+    2100062: simple-glass-material.006
+    2300000: blinker front left
+    2300002: blinker front right
+    2300004: blinker left left
+    2300006: blinker right right
+    2300008: bottom part
+    2300010: brake
+    2300012: Building_F003
+    2300014: Building_F004
+    2300016: Building_F005
+    2300018: Building_F006
+    2300020: Building_F007
+    2300022: Building_F008
+    2300024: Building_F009
+    2300026: Building_F010
+    2300028: Building_F011
+    2300030: Building_F012
+    2300032: Building_F013
+    2300034: Building_F014
+    2300036: buzd
+    2300038: cabin
+    2300040: clutch
+    2300042: Cube
+    2300044: Cup holder right
+    2300046: Cup holder right001
+    2300048: Cylinder0001
+    2300050: Cylinder005
+    2300052: Cylinder007
+    2300054: derailleur
+    2300056: door buzd left rear
+    2300058: door buzd right rear001
+    2300060: door cabin left
+    2300062: door cabin right
+    2300064: door handle cabin exterior left
+    2300066: door handle cabin exterior right
+    2300068: door handle cabin inner left
+    2300070: door handle cabin inner right
+    2300072: door window left
+    2300074: door window raiser left
+    2300076: door window raiser right
+    2300078: door window right
+    2300080: door window001
+    2300082: door window002
+    2300084: door window003
+    2300086: door window004
+    2300088: drive disk back left
+    2300090: drive disk front left
+    2300092: drive disk middle left
+    2300094: drive disk middle right
+    2300096: driver cabin lamp
+    2300098: driver lamp
+    2300100: Feader 3Cap Up
+    2300102: front window
+    2300104: gas
+    2300106: glas.002
+    2300108: glas.003
+    2300110: Glass Holder Holder.004
+    2300112: handbrake
+    2300114: hood
+    2300116: lighting front
+    2300118: lighting up
+    2300120: Long Box
+    2300122: Long Box Closer
+    2300124: Long Stack 1
+    2300126: Long Stack 1.001
+    2300128: Long Stack 2
+    2300130: Long Stack 2.001
+    2300132: Long Stack 3
+    2300134: Long Stack 3.001
+    2300136: Long Stack 4
+    2300138: Long Stack 4.001
+    2300140: Long Stack 5
+    2300142: Long Stack 5.001
+    2300144: Long Stack 6
+    2300146: Long Stack 6.001
+    2300148: mirror left
+    2300150: mirror right
+    2300152: Object019
+    2300154: Object020
+    2300156: Object021
+    2300158: Object022
+    2300160: Object023
+    2300162: Plane.007
+    2300164: PowerBoardCap
+    2300166: seat
+    2300168: Short Door Closer
+    2300170: Side_door.008
+    2300172: Side_door.009
+    2300174: Side_door.010
+    2300176: Small Stack 1
+    2300178: Small Stack 1.001
+    2300180: Small Stack 2
+    2300182: Small Stack 2.001
+    2300184: Small Stack 3
+    2300186: Small Stack 3.001
+    2300188: Small Stack 4
+    2300190: Small Stack 4.001
+    2300192: Small Stack 5
+    2300194: Small Stack 5.001
+    2300196: Small Stack 6
+    2300198: Small Stack 6.001
+    2300200: spare wheel
+    2300202: stairs
+    2300204: steering wheel
+    2300206: tire back right
+    2300208: tire front right
+    2300210: transmission control
+    2300212: wheel mounting
+    2300214: windscreen wiper
+    3300000: blinker front left
+    3300002: blinker front right
+    3300004: blinker left left
+    3300006: blinker right right
+    3300008: bottom part
+    3300010: brake
+    3300012: Building_F003
+    3300014: Building_F004
+    3300016: Building_F005
+    3300018: Building_F006
+    3300020: Building_F007
+    3300022: Building_F008
+    3300024: Building_F009
+    3300026: Building_F010
+    3300028: Building_F011
+    3300030: Building_F012
+    3300032: Building_F013
+    3300034: Building_F014
+    3300036: buzd
+    3300038: cabin
+    3300040: clutch
+    3300042: Cube
+    3300044: Cup holder right
+    3300046: Cup holder right001
+    3300048: Cylinder0001
+    3300050: Cylinder005
+    3300052: Cylinder007
+    3300054: derailleur
+    3300056: door buzd left rear
+    3300058: door buzd right rear001
+    3300060: door cabin left
+    3300062: door cabin right
+    3300064: door handle cabin exterior left
+    3300066: door handle cabin exterior right
+    3300068: door handle cabin inner left
+    3300070: door handle cabin inner right
+    3300072: door window left
+    3300074: door window raiser left
+    3300076: door window raiser right
+    3300078: door window right
+    3300080: door window001
+    3300082: door window002
+    3300084: door window003
+    3300086: door window004
+    3300088: drive disk back left
+    3300090: drive disk front left
+    3300092: drive disk middle left
+    3300094: drive disk middle right
+    3300096: driver cabin lamp
+    3300098: driver lamp
+    3300100: Feader 3Cap Up
+    3300102: front window
+    3300104: gas
+    3300106: glas.002
+    3300108: glas.003
+    3300110: Glass Holder Holder.004
+    3300112: handbrake
+    3300114: hood
+    3300116: lighting front
+    3300118: lighting up
+    3300120: Long Box
+    3300122: Long Box Closer
+    3300124: Long Stack 1
+    3300126: Long Stack 1.001
+    3300128: Long Stack 2
+    3300130: Long Stack 2.001
+    3300132: Long Stack 3
+    3300134: Long Stack 3.001
+    3300136: Long Stack 4
+    3300138: Long Stack 4.001
+    3300140: Long Stack 5
+    3300142: Long Stack 5.001
+    3300144: Long Stack 6
+    3300146: Long Stack 6.001
+    3300148: mirror left
+    3300150: mirror right
+    3300152: Object019
+    3300154: Object020
+    3300156: Object021
+    3300158: Object022
+    3300160: Object023
+    3300162: Plane.007
+    3300164: PowerBoardCap
+    3300166: seat
+    3300168: Short Door Closer
+    3300170: Side_door.008
+    3300172: Side_door.009
+    3300174: Side_door.010
+    3300176: Small Stack 1
+    3300178: Small Stack 1.001
+    3300180: Small Stack 2
+    3300182: Small Stack 2.001
+    3300184: Small Stack 3
+    3300186: Small Stack 3.001
+    3300188: Small Stack 4
+    3300190: Small Stack 4.001
+    3300192: Small Stack 5
+    3300194: Small Stack 5.001
+    3300196: Small Stack 6
+    3300198: Small Stack 6.001
+    3300200: spare wheel
+    3300202: stairs
+    3300204: steering wheel
+    3300206: tire back right
+    3300208: tire front right
+    3300210: transmission control
+    3300212: wheel mounting
+    3300214: windscreen wiper
+    4300000: blinker front left
+    4300002: blinker front right
+    4300004: blinker left left
+    4300006: blinker right right
+    4300008: driver cabin lamp
+    4300010: driver lamp
+    4300012: lighting front
+    4300014: lighting up
+    4300016: Cube
+    4300018: Long Stack 1
+    4300020: Long Stack 2
+    4300022: Long Stack 3
+    4300024: Long Stack 4
+    4300026: Long Stack 5
+    4300028: Long Stack 6
+    4300030: Plane.007
+    4300032: Short Door Closer
+    4300034: Long Stack 1.001
+    4300036: Long Stack 2.001
+    4300038: Long Stack 3.001
+    4300040: Long Stack 4.001
+    4300042: Long Stack 5.001
+    4300044: Long Stack 6.001
+    4300046: door buzd left rear
+    4300048: door window001
+    4300050: door window002
+    4300052: door window003
+    4300054: door window004
+    4300056: door buzd right rear001
+    4300058: Feader 3Cap Up
+    4300060: PowerBoardCap
+    4300062: Side_door.008
+    4300064: Side_door.009
+    4300066: Long Box
+    4300068: Long Box Closer
+    4300070: Small Stack 1
+    4300072: Small Stack 2
+    4300074: Small Stack 3
+    4300076: Small Stack 4
+    4300078: Small Stack 5
+    4300080: Small Stack 6
+    4300082: Small Stack 6.001
+    4300084: Small Stack 1.001
+    4300086: Small Stack 2.001
+    4300088: Small Stack 3.001
+    4300090: Small Stack 4.001
+    4300092: Small Stack 5.001
+    4300094: spare wheel
+    4300096: wheel mounting
+    4300098: stairs
+    4300100: buzd
+    4300102: Side_door.010
+    4300104: cabin
+    4300106: brake
+    4300108: clutch
+    4300110: derailleur
+    4300112: gas
+    4300114: handbrake
+    4300116: steering wheel
+    4300118: transmission control
+    4300120: door cabin left
+    4300122: door handle cabin exterior left
+    4300124: door handle cabin inner left
+    4300126: door window left
+    4300128: door window raiser left
+    4300130: door cabin right
+    4300132: door handle cabin exterior right
+    4300134: door handle cabin inner right
+    4300136: door window raiser right
+    4300138: door window right
+    4300140: front window
+    4300142: hood
+    4300144: seat
+    4300146: windscreen wiper
+    4300148: bottom part
+    4300150: mirror left
+    4300152: mirror right
+    4300154: tire back right
+    4300156: drive disk front left
+    4300158: tire front right
+    4300160: drive disk middle left
+    4300162: drive disk middle right
+    4300164: Cylinder005
+    4300166: Cylinder0001
+    4300168: Building_F003
+    4300170: Building_F004
+    4300172: Building_F005
+    4300174: Cylinder007
+    4300176: Object019
+    4300178: Building_F006
+    4300180: Building_F007
+    4300182: Building_F008
+    4300184: Building_F009
+    4300186: Building_F010
+    4300188: Building_F011
+    4300190: Building_F012
+    4300192: Building_F013
+    4300194: Building_F014
+    4300196: Object020
+    4300198: Cup holder right001
+    4300200: Cup holder right
+    4300202: Glass Holder Holder.004
+    4300204: glas.003
+    4300206: glas.002
+    4300208: drive disk back left
+    4300210: Object021
+    4300212: Object022
+    4300214: Object023
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

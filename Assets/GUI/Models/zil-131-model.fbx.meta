@@ -1,0 +1,2383 @@
+fileFormatVersion: 2
+guid: 26407f870b2c1b74f8d79de946a001fa
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ANTENNA BASE LEFT
+    100002: ANTENNA BASE RIGHT
+    100004: Antenna bracing.001
+    100006: Antenna bracing.002
+    100008: ANTENNA XUI FIRST HALF-PACK
+    100010: ANTENNA XUI SECOND HALF-PACK
+    100012: BIG STACK BOX
+    100014: blinker front left
+    100016: blinker front right
+    100018: blinker left left
+    100020: blinker right right
+    100022: BLINKERS
+    100024: BODY UNIFIED ZERO DIMENSION
+    100026: bottom locker door left.001
+    100028: bottom locker door left.002
+    100030: bottom locker door left.003
+    100032: bottom locker door left.004
+    100034: bottom locker door right
+    100036: bottom locker door right.001
+    100038: bottom locker door right.002
+    100040: bottom locker door right.004
+    100042: bottom locker door.001
+    100044: bottom part
+    100046: bottom part.001
+    100048: bottom part.003
+    100050: Box under antenna.001
+    100052: Box under antenna.002
+    100054: brake
+    100056: buzd
+    100058: buzd_MeshPart0
+    100060: buzd_MeshPart1
+    100062: CABIN
+    100064: cabin
+    100066: Central logarithmic antenna.000
+    100068: Central logarithmic antenna.001
+    100070: CHASIS
+    100072: Chear
+    100074: Chlen.001
+    100076: Chlen.002
+    100078: clutch
+    100080: coil 4.000
+    100082: coil 4.001
+    100084: coil bottom
+    100086: coil middle bottom
+    100088: coil middle upper
+    100090: coil upper
+    100092: COILS
+    100094: coils holder
+    100096: Connector in chlen.001
+    100098: Connector in chlen.002
+    100100: Connector in logarithmic antenna.000
+    100102: Connector in logarithmic antenna.001
+    100104: CONTROL DEVICES
+    100106: Cube
+    100108: Cup holder left
+    100110: Cup holder right
+    100112: curtain
+    100114: curtain.003
+    100116: curtain.004
+    100118: Cylinder.000
+    100120: Cylinder.016
+    100122: derailleur
+    100124: DOOR BUZD INSIDE
+    100126: door buzd left rear
+    100128: DOOR BUZD REAR
+    100130: door buzd right rear
+    100132: door buzd right rear.001
+    100134: door cabin left
+    100136: door cabin right
+    100138: door handle buzd exterior
+    100140: door handle buzd exterior left.001
+    100142: door handle buzd inner
+    100144: door handle buzd inner left.001
+    100146: door handle cabin exterior left
+    100148: door handle cabin exterior right
+    100150: door handle cabin inner left
+    100152: door handle cabin inner right
+    100154: DOOR LEFT
+    100156: DOOR RIGHT
+    100158: door wardrobe station left
+    100160: door wardrobe station left.002
+    100162: door wardrobe station right
+    100164: door wardrobe station right.002
+    100166: door window
+    100168: door window left
+    100170: door window raiser left
+    100172: door window raiser right
+    100174: door window right
+    100176: door window.001
+    100178: DOORS
+    100180: drive disk back left
+    100182: drive disk front left
+    100184: drive disk middle left
+    100186: drive disk middle right
+    100188: driver cabin lamp
+    100190: driver lamp
+    100192: Earthing 1
+    100194: Earthing 2
+    100196: electroshield
+    100198: Feader 3Cap Down
+    100200: Feader 3Cap Up
+    100202: frame.001
+    100204: front window
+    100206: Full Mast Stage 1 left
+    100208: Full Mast Stage 1 right
+    100210: Full Mast Stage 2 left
+    100212: Full Mast Stage 2 right
+    100214: Full Mast Stage 3 left
+    100216: Full Mast Stage 3 right
+    100218: Full Mast Stage 4 left
+    100220: Full Mast Stage 4 right
+    100222: gas
+    100224: Generator Left
+    100226: Generator Right
+    100228: glas.002
+    100230: glas.003
+    100232: Glass Holder Holder.001
+    100234: Glass Holder Holder.002
+    100236: Glass Holder.001
+    100238: Glass Holder.002
+    100240: grip handling rigth.000
+    100242: grip handling rigth.002
+    100244: grip handling rigth.003
+    100246: grip handling rigth.004
+    100248: grip handling rigth.005
+    100250: grip handling rigth.006
+    100252: grip handling rigth.007
+    100254: grip handling rigth.008
+    100256: grip handling rigth.009
+    100258: grip handling rigth.010
+    100260: grip handling rigth.011
+    100262: grip handling rigth.012
+    100264: grip handling.left.000
+    100266: grip handling.left.002
+    100268: grip handling.left.003
+    100270: grip handling.left.004
+    100272: grip handling.left.005
+    100274: grip handling.left.006
+    100276: grip handling.left.007
+    100278: grip handling.left.008
+    100280: grip handling.left.009
+    100282: grip handling.left.010
+    100284: grip handling.left.011
+    100286: grip handling.left.012
+    100288: grip left.000
+    100290: grip left.002
+    100292: grip left.003
+    100294: grip left.004
+    100296: grip left.005
+    100298: grip left.006
+    100300: grip left.007
+    100302: grip left.008
+    100304: grip left.009
+    100306: grip left.010
+    100308: grip left.011
+    100310: grip left.012
+    100312: grip rigth.000
+    100314: grip rigth.002
+    100316: grip rigth.003
+    100318: grip rigth.004
+    100320: grip rigth.005
+    100322: grip rigth.006
+    100324: grip rigth.007
+    100326: grip rigth.008
+    100328: grip rigth.009
+    100330: grip rigth.010
+    100332: grip rigth.011
+    100334: grip rigth.012
+    100336: handbrake
+    100338: handset1
+    100340: handset2
+    100342: heft hoop with brake.000
+    100344: heft hoop with brake.002
+    100346: heft hoop with brake.003
+    100348: heft hoop with brake.004
+    100350: heft hoop with brake.005
+    100352: heft hoop with brake.006
+    100354: heft hoop with brake.007
+    100356: heft hoop with brake.008
+    100358: heft hoop with brake.009
+    100360: heft hoop with brake.010
+    100362: heft hoop with brake.011
+    100364: heft hoop with brake.012
+    100366: hood
+    100368: iron_stick left
+    100370: iron_stick right
+    100372: keyboard.001
+    100374: kung shelf
+    100376: lamp
+    100378: Lattice left side
+    100380: Lattice left side.001
+    100382: Lattice right side
+    100384: Lattice right side.001
+    100386: left case
+    100388: left generator box side
+    100390: left generator box top part
+    100392: left half table box
+    100394: left hoop.000
+    100396: left hoop.002
+    100398: left hoop.003
+    100400: left hoop.004
+    100402: left hoop.005
+    100404: left hoop.006
+    100406: left hoop.007
+    100408: left hoop.008
+    100410: left hoop.009
+    100412: left hoop.010
+    100414: left hoop.011
+    100416: left hoop.012
+    100418: left kung box
+    100420: left kung table
+    100422: Left rotated stick.000
+    100424: Left rotated stick.002
+    100426: lighting front
+    100428: lighting up
+    100430: LOGARITHMIC ANTENNA FIRST HALF-PACK
+    100432: LOGARITHMIC ANTENNA SECOND HALF-PACK
+    100434: Long Box
+    100436: Long Box Closer
+    100438: Long Stack 1
+    100440: Long Stack 1.001
+    100442: Long Stack 2
+    100444: Long Stack 2.001
+    100446: Long Stack 3
+    100448: Long Stack 3.001
+    100450: Long Stack 4
+    100452: Long Stack 4.001
+    100454: Long Stack 5
+    100456: Long Stack 5.001
+    100458: Long Stack 6
+    100460: Long Stack 6.001
+    100462: Lower central bracket
+    100464: Lower central bracket.001
+    100466: Lower left logarithmic antenna
+    100468: Lower left logarithmic antenna.001
+    100470: Lower right logarithmic antenna
+    100472: Lower right logarithmic antenna.001
+    100474: Mast Carbine Holder 1 stage left
+    100476: Mast Carbine Holder 1 stage right.001
+    100478: Mast Carbine Holder 2 stage left
+    100480: Mast Carbine Holder 2 stage right
+    100482: Mast Carbine Holder 3 stage left
+    100484: Mast Carbine Holder 3 stage right
+    100486: Mast Carbine Holder 4 stage left
+    100488: Mast Carbine Holder 4 stage right
+    100490: mast exstention left
+    100492: mast exstention right
+    100494: mast exstention spinner left
+    100496: mast exstention spinner right
+    100498: mast exstention support left
+    100500: mast exstention support right
+    100502: mast extention fixture left
+    100504: mast extention fixture right
+    100506: Mast Fixture 1 right
+    100508: MAST LEFT
+    100510: MAST LEFT FULL
+    100512: MAST RIGHT
+    100514: MAST RIGHT FULL
+    100516: Mast Stage 1 left
+    100518: Mast Stage 2.1 left
+    100520: Mast Stage 2.1 right
+    100522: Mast Stage 2.2 left
+    100524: Mast Stage 2.2 right
+    100526: Mast Stage 3 left
+    100528: Mast Stage 3 right
+    100530: Mast Stage 4 left
+    100532: Mast Stage 4 right
+    100534: MERSEDES LEFT
+    100536: MERSEDES RIGHT
+    100538: mirror left
+    100540: mirror right
+    100542: MIRRORS
+    100544: monitor.001
+    100546: mouse
+    100548: Network Filter
+    100550: p-321
+    100552: pickaxe.001
+    100554: Plane.007
+    100556: PORTABLE COIL LEFT 1
+    100558: PORTABLE COIL LEFT 2
+    100560: PORTABLE COIL LEFT 3
+    100562: PORTABLE COIL LEFT 4
+    100564: PORTABLE COIL LEFT 5
+    100566: PORTABLE COIL LEFT 6
+    100568: PORTABLE COIL RIGHT 1
+    100570: PORTABLE COIL RIGHT 2
+    100572: PORTABLE COIL RIGHT 3
+    100574: PORTABLE COIL RIGHT 4
+    100576: PORTABLE COIL RIGHT 5
+    100578: PORTABLE COIL RIGHT 6
+    100580: PowerBoardCap
+    100582: right case
+    100584: right half table box
+    100586: right hoop with brake.000
+    100588: right hoop with brake.002
+    100590: right hoop with brake.003
+    100592: right hoop with brake.004
+    100594: right hoop with brake.005
+    100596: right hoop with brake.006
+    100598: right hoop with brake.007
+    100600: right hoop with brake.008
+    100602: right hoop with brake.009
+    100604: right hoop with brake.010
+    100606: right hoop with brake.011
+    100608: right hoop with brake.012
+    100610: right hoop.000
+    100612: right hoop.002
+    100614: right hoop.003
+    100616: right hoop.004
+    100618: right hoop.005
+    100620: right hoop.006
+    100622: right hoop.007
+    100624: right hoop.008
+    100626: right hoop.009
+    100628: right hoop.010
+    100630: right hoop.011
+    100632: right hoop.012
+    100634: right kung box
+    100636: Right lower bracket.000
+    100638: Right lower bracket.001
+    100640: Right lower bracket.002
+    100642: Right lower bracket.005
+    100644: Right rotated stick.000
+    100646: Right rotated stick.002
+    100648: Right upper bracket.000
+    100650: Right upper bracket.001
+    100652: Right upper bracket.004
+    100654: Right upper bracket.005
+    100656: 'rigth generator box side '
+    100658: rigth generator box top side
+    100660: Rotator Left
+    100662: seat
+    100664: Short Door Closer
+    100666: shovel.001
+    100668: shovel.002
+    100670: Side_door.000
+    100672: Side_door.005
+    100674: Side_door.006
+    100676: Side_door.007
+    100678: Side_door.008
+    100680: Side_door.009
+    100682: Small Stack 1
+    100684: Small Stack 1.001
+    100686: Small Stack 2
+    100688: Small Stack 2.001
+    100690: Small Stack 3
+    100692: Small Stack 3.001
+    100694: Small Stack 4
+    100696: Small Stack 4.001
+    100698: Small Stack 5
+    100700: Small Stack 5.001
+    100702: Small Stack 6
+    100704: Small Stack 6.001
+    100706: SMALL STACK BOX
+    100708: spare wheel
+    100710: Stack
+    100712: stairs
+    100714: stake clamping.000
+    100716: stake clamping.002
+    100718: stake clamping.003
+    100720: stake clamping.004
+    100722: stake clamping.005
+    100724: stake clamping.006
+    100726: stake clamping.007
+    100728: stake clamping.008
+    100730: stake clamping.009
+    100732: stake clamping.010
+    100734: stake clamping.011
+    100736: stake clamping.012
+    100738: station on table
+    100740: steering wheel
+    100742: Stick1.000
+    100744: Stick1.001
+    100746: Stick1.002
+    100748: Stick1.006
+    100750: Stick1.007
+    100752: Stick1.008
+    100754: straight kung table
+    100756: straight kung table.001
+    100758: Supply Cable Bobbin Right
+    100760: SupplyCableBobbinLeft
+    100762: table base
+    100764: table base.001
+    100766: table with computer
+    100768: tabletop
+    100770: 'tabletop '
+    100772: telephone
+    100774: tire back right
+    100776: tire front right
+    100778: top cover front
+    100780: top cover front.001
+    100782: top cover front.002
+    100784: top cover front.003
+    100786: transmission control
+    100788: Upper central bracket
+    100790: Upper central bracket.001
+    100792: Upper central bracket.002
+    100794: Upper left logarithmic antenna
+    100796: Upper left logarithmic antenna.001
+    100798: upper locker door.001
+    100800: Upper right logarithmic antenna
+    100802: Upper right logarithmic antenna.001
+    100804: walkie-talkie
+    100806: Wall
+    100808: wardrobe station
+    100810: wardrobe station left
+    100812: wardrobe station left.001
+    100814: wardrobe station right first box
+    100816: wardrobe station rigth first
+    100818: wardrobe station rigth second
+    100820: wardrobe station.002
+    100822: Warhummer Left
+    100824: Warhummer Right
+    100826: WHEEL BACK LEFT
+    100828: WHEEL BACK RIGHT
+    100830: WHEEL FRONT LEFT
+    100832: WHEEL FRONT RIGHT
+    100834: WHEEL MIDDLE LEFT
+    100836: WHEEL MIDDLE RIGHT
+    100838: wheel mounting
+    100840: WHEELS
+    100842: Whip antenna.001
+    100844: Whip antenna.002
+    100846: WINDOW BUZD
+    100848: windscreen wiper
+    100850: //RootNode
+    400000: ANTENNA BASE LEFT
+    400002: ANTENNA BASE RIGHT
+    400004: Antenna bracing.001
+    400006: Antenna bracing.002
+    400008: ANTENNA XUI FIRST HALF-PACK
+    400010: ANTENNA XUI SECOND HALF-PACK
+    400012: BIG STACK BOX
+    400014: blinker front left
+    400016: blinker front right
+    400018: blinker left left
+    400020: blinker right right
+    400022: BLINKERS
+    400024: BODY UNIFIED ZERO DIMENSION
+    400026: bottom locker door left.001
+    400028: bottom locker door left.002
+    400030: bottom locker door left.003
+    400032: bottom locker door left.004
+    400034: bottom locker door right
+    400036: bottom locker door right.001
+    400038: bottom locker door right.002
+    400040: bottom locker door right.004
+    400042: bottom locker door.001
+    400044: bottom part
+    400046: bottom part.001
+    400048: bottom part.003
+    400050: Box under antenna.001
+    400052: Box under antenna.002
+    400054: brake
+    400056: buzd
+    400058: buzd_MeshPart0
+    400060: buzd_MeshPart1
+    400062: CABIN
+    400064: cabin
+    400066: Central logarithmic antenna.000
+    400068: Central logarithmic antenna.001
+    400070: CHASIS
+    400072: Chear
+    400074: Chlen.001
+    400076: Chlen.002
+    400078: clutch
+    400080: coil 4.000
+    400082: coil 4.001
+    400084: coil bottom
+    400086: coil middle bottom
+    400088: coil middle upper
+    400090: coil upper
+    400092: COILS
+    400094: coils holder
+    400096: Connector in chlen.001
+    400098: Connector in chlen.002
+    400100: Connector in logarithmic antenna.000
+    400102: Connector in logarithmic antenna.001
+    400104: CONTROL DEVICES
+    400106: Cube
+    400108: Cup holder left
+    400110: Cup holder right
+    400112: curtain
+    400114: curtain.003
+    400116: curtain.004
+    400118: Cylinder.000
+    400120: Cylinder.016
+    400122: derailleur
+    400124: DOOR BUZD INSIDE
+    400126: door buzd left rear
+    400128: DOOR BUZD REAR
+    400130: door buzd right rear
+    400132: door buzd right rear.001
+    400134: door cabin left
+    400136: door cabin right
+    400138: door handle buzd exterior
+    400140: door handle buzd exterior left.001
+    400142: door handle buzd inner
+    400144: door handle buzd inner left.001
+    400146: door handle cabin exterior left
+    400148: door handle cabin exterior right
+    400150: door handle cabin inner left
+    400152: door handle cabin inner right
+    400154: DOOR LEFT
+    400156: DOOR RIGHT
+    400158: door wardrobe station left
+    400160: door wardrobe station left.002
+    400162: door wardrobe station right
+    400164: door wardrobe station right.002
+    400166: door window
+    400168: door window left
+    400170: door window raiser left
+    400172: door window raiser right
+    400174: door window right
+    400176: door window.001
+    400178: DOORS
+    400180: drive disk back left
+    400182: drive disk front left
+    400184: drive disk middle left
+    400186: drive disk middle right
+    400188: driver cabin lamp
+    400190: driver lamp
+    400192: Earthing 1
+    400194: Earthing 2
+    400196: electroshield
+    400198: Feader 3Cap Down
+    400200: Feader 3Cap Up
+    400202: frame.001
+    400204: front window
+    400206: Full Mast Stage 1 left
+    400208: Full Mast Stage 1 right
+    400210: Full Mast Stage 2 left
+    400212: Full Mast Stage 2 right
+    400214: Full Mast Stage 3 left
+    400216: Full Mast Stage 3 right
+    400218: Full Mast Stage 4 left
+    400220: Full Mast Stage 4 right
+    400222: gas
+    400224: Generator Left
+    400226: Generator Right
+    400228: glas.002
+    400230: glas.003
+    400232: Glass Holder Holder.001
+    400234: Glass Holder Holder.002
+    400236: Glass Holder.001
+    400238: Glass Holder.002
+    400240: grip handling rigth.000
+    400242: grip handling rigth.002
+    400244: grip handling rigth.003
+    400246: grip handling rigth.004
+    400248: grip handling rigth.005
+    400250: grip handling rigth.006
+    400252: grip handling rigth.007
+    400254: grip handling rigth.008
+    400256: grip handling rigth.009
+    400258: grip handling rigth.010
+    400260: grip handling rigth.011
+    400262: grip handling rigth.012
+    400264: grip handling.left.000
+    400266: grip handling.left.002
+    400268: grip handling.left.003
+    400270: grip handling.left.004
+    400272: grip handling.left.005
+    400274: grip handling.left.006
+    400276: grip handling.left.007
+    400278: grip handling.left.008
+    400280: grip handling.left.009
+    400282: grip handling.left.010
+    400284: grip handling.left.011
+    400286: grip handling.left.012
+    400288: grip left.000
+    400290: grip left.002
+    400292: grip left.003
+    400294: grip left.004
+    400296: grip left.005
+    400298: grip left.006
+    400300: grip left.007
+    400302: grip left.008
+    400304: grip left.009
+    400306: grip left.010
+    400308: grip left.011
+    400310: grip left.012
+    400312: grip rigth.000
+    400314: grip rigth.002
+    400316: grip rigth.003
+    400318: grip rigth.004
+    400320: grip rigth.005
+    400322: grip rigth.006
+    400324: grip rigth.007
+    400326: grip rigth.008
+    400328: grip rigth.009
+    400330: grip rigth.010
+    400332: grip rigth.011
+    400334: grip rigth.012
+    400336: handbrake
+    400338: handset1
+    400340: handset2
+    400342: heft hoop with brake.000
+    400344: heft hoop with brake.002
+    400346: heft hoop with brake.003
+    400348: heft hoop with brake.004
+    400350: heft hoop with brake.005
+    400352: heft hoop with brake.006
+    400354: heft hoop with brake.007
+    400356: heft hoop with brake.008
+    400358: heft hoop with brake.009
+    400360: heft hoop with brake.010
+    400362: heft hoop with brake.011
+    400364: heft hoop with brake.012
+    400366: hood
+    400368: iron_stick left
+    400370: iron_stick right
+    400372: keyboard.001
+    400374: kung shelf
+    400376: lamp
+    400378: Lattice left side
+    400380: Lattice left side.001
+    400382: Lattice right side
+    400384: Lattice right side.001
+    400386: left case
+    400388: left generator box side
+    400390: left generator box top part
+    400392: left half table box
+    400394: left hoop.000
+    400396: left hoop.002
+    400398: left hoop.003
+    400400: left hoop.004
+    400402: left hoop.005
+    400404: left hoop.006
+    400406: left hoop.007
+    400408: left hoop.008
+    400410: left hoop.009
+    400412: left hoop.010
+    400414: left hoop.011
+    400416: left hoop.012
+    400418: left kung box
+    400420: left kung table
+    400422: Left rotated stick.000
+    400424: Left rotated stick.002
+    400426: lighting front
+    400428: lighting up
+    400430: LOGARITHMIC ANTENNA FIRST HALF-PACK
+    400432: LOGARITHMIC ANTENNA SECOND HALF-PACK
+    400434: Long Box
+    400436: Long Box Closer
+    400438: Long Stack 1
+    400440: Long Stack 1.001
+    400442: Long Stack 2
+    400444: Long Stack 2.001
+    400446: Long Stack 3
+    400448: Long Stack 3.001
+    400450: Long Stack 4
+    400452: Long Stack 4.001
+    400454: Long Stack 5
+    400456: Long Stack 5.001
+    400458: Long Stack 6
+    400460: Long Stack 6.001
+    400462: Lower central bracket
+    400464: Lower central bracket.001
+    400466: Lower left logarithmic antenna
+    400468: Lower left logarithmic antenna.001
+    400470: Lower right logarithmic antenna
+    400472: Lower right logarithmic antenna.001
+    400474: Mast Carbine Holder 1 stage left
+    400476: Mast Carbine Holder 1 stage right.001
+    400478: Mast Carbine Holder 2 stage left
+    400480: Mast Carbine Holder 2 stage right
+    400482: Mast Carbine Holder 3 stage left
+    400484: Mast Carbine Holder 3 stage right
+    400486: Mast Carbine Holder 4 stage left
+    400488: Mast Carbine Holder 4 stage right
+    400490: mast exstention left
+    400492: mast exstention right
+    400494: mast exstention spinner left
+    400496: mast exstention spinner right
+    400498: mast exstention support left
+    400500: mast exstention support right
+    400502: mast extention fixture left
+    400504: mast extention fixture right
+    400506: Mast Fixture 1 right
+    400508: MAST LEFT
+    400510: MAST LEFT FULL
+    400512: MAST RIGHT
+    400514: MAST RIGHT FULL
+    400516: Mast Stage 1 left
+    400518: Mast Stage 2.1 left
+    400520: Mast Stage 2.1 right
+    400522: Mast Stage 2.2 left
+    400524: Mast Stage 2.2 right
+    400526: Mast Stage 3 left
+    400528: Mast Stage 3 right
+    400530: Mast Stage 4 left
+    400532: Mast Stage 4 right
+    400534: MERSEDES LEFT
+    400536: MERSEDES RIGHT
+    400538: mirror left
+    400540: mirror right
+    400542: MIRRORS
+    400544: monitor.001
+    400546: mouse
+    400548: Network Filter
+    400550: p-321
+    400552: pickaxe.001
+    400554: Plane.007
+    400556: PORTABLE COIL LEFT 1
+    400558: PORTABLE COIL LEFT 2
+    400560: PORTABLE COIL LEFT 3
+    400562: PORTABLE COIL LEFT 4
+    400564: PORTABLE COIL LEFT 5
+    400566: PORTABLE COIL LEFT 6
+    400568: PORTABLE COIL RIGHT 1
+    400570: PORTABLE COIL RIGHT 2
+    400572: PORTABLE COIL RIGHT 3
+    400574: PORTABLE COIL RIGHT 4
+    400576: PORTABLE COIL RIGHT 5
+    400578: PORTABLE COIL RIGHT 6
+    400580: PowerBoardCap
+    400582: right case
+    400584: right half table box
+    400586: right hoop with brake.000
+    400588: right hoop with brake.002
+    400590: right hoop with brake.003
+    400592: right hoop with brake.004
+    400594: right hoop with brake.005
+    400596: right hoop with brake.006
+    400598: right hoop with brake.007
+    400600: right hoop with brake.008
+    400602: right hoop with brake.009
+    400604: right hoop with brake.010
+    400606: right hoop with brake.011
+    400608: right hoop with brake.012
+    400610: right hoop.000
+    400612: right hoop.002
+    400614: right hoop.003
+    400616: right hoop.004
+    400618: right hoop.005
+    400620: right hoop.006
+    400622: right hoop.007
+    400624: right hoop.008
+    400626: right hoop.009
+    400628: right hoop.010
+    400630: right hoop.011
+    400632: right hoop.012
+    400634: right kung box
+    400636: Right lower bracket.000
+    400638: Right lower bracket.001
+    400640: Right lower bracket.002
+    400642: Right lower bracket.005
+    400644: Right rotated stick.000
+    400646: Right rotated stick.002
+    400648: Right upper bracket.000
+    400650: Right upper bracket.001
+    400652: Right upper bracket.004
+    400654: Right upper bracket.005
+    400656: 'rigth generator box side '
+    400658: rigth generator box top side
+    400660: Rotator Left
+    400662: seat
+    400664: Short Door Closer
+    400666: shovel.001
+    400668: shovel.002
+    400670: Side_door.000
+    400672: Side_door.005
+    400674: Side_door.006
+    400676: Side_door.007
+    400678: Side_door.008
+    400680: Side_door.009
+    400682: Small Stack 1
+    400684: Small Stack 1.001
+    400686: Small Stack 2
+    400688: Small Stack 2.001
+    400690: Small Stack 3
+    400692: Small Stack 3.001
+    400694: Small Stack 4
+    400696: Small Stack 4.001
+    400698: Small Stack 5
+    400700: Small Stack 5.001
+    400702: Small Stack 6
+    400704: Small Stack 6.001
+    400706: SMALL STACK BOX
+    400708: spare wheel
+    400710: Stack
+    400712: stairs
+    400714: stake clamping.000
+    400716: stake clamping.002
+    400718: stake clamping.003
+    400720: stake clamping.004
+    400722: stake clamping.005
+    400724: stake clamping.006
+    400726: stake clamping.007
+    400728: stake clamping.008
+    400730: stake clamping.009
+    400732: stake clamping.010
+    400734: stake clamping.011
+    400736: stake clamping.012
+    400738: station on table
+    400740: steering wheel
+    400742: Stick1.000
+    400744: Stick1.001
+    400746: Stick1.002
+    400748: Stick1.006
+    400750: Stick1.007
+    400752: Stick1.008
+    400754: straight kung table
+    400756: straight kung table.001
+    400758: Supply Cable Bobbin Right
+    400760: SupplyCableBobbinLeft
+    400762: table base
+    400764: table base.001
+    400766: table with computer
+    400768: tabletop
+    400770: 'tabletop '
+    400772: telephone
+    400774: tire back right
+    400776: tire front right
+    400778: top cover front
+    400780: top cover front.001
+    400782: top cover front.002
+    400784: top cover front.003
+    400786: transmission control
+    400788: Upper central bracket
+    400790: Upper central bracket.001
+    400792: Upper central bracket.002
+    400794: Upper left logarithmic antenna
+    400796: Upper left logarithmic antenna.001
+    400798: upper locker door.001
+    400800: Upper right logarithmic antenna
+    400802: Upper right logarithmic antenna.001
+    400804: walkie-talkie
+    400806: Wall
+    400808: wardrobe station
+    400810: wardrobe station left
+    400812: wardrobe station left.001
+    400814: wardrobe station right first box
+    400816: wardrobe station rigth first
+    400818: wardrobe station rigth second
+    400820: wardrobe station.002
+    400822: Warhummer Left
+    400824: Warhummer Right
+    400826: WHEEL BACK LEFT
+    400828: WHEEL BACK RIGHT
+    400830: WHEEL FRONT LEFT
+    400832: WHEEL FRONT RIGHT
+    400834: WHEEL MIDDLE LEFT
+    400836: WHEEL MIDDLE RIGHT
+    400838: wheel mounting
+    400840: WHEELS
+    400842: Whip antenna.001
+    400844: Whip antenna.002
+    400846: WINDOW BUZD
+    400848: windscreen wiper
+    400850: //RootNode
+    2300000: Antenna bracing.001
+    2300002: Antenna bracing.002
+    2300004: blinker front left
+    2300006: blinker front right
+    2300008: blinker left left
+    2300010: blinker right right
+    2300012: bottom locker door left.001
+    2300014: bottom locker door left.002
+    2300016: bottom locker door left.003
+    2300018: bottom locker door left.004
+    2300020: bottom locker door right
+    2300022: bottom locker door right.001
+    2300024: bottom locker door right.002
+    2300026: bottom locker door right.004
+    2300028: bottom locker door.001
+    2300030: bottom part
+    2300032: bottom part.001
+    2300034: bottom part.003
+    2300036: Box under antenna.001
+    2300038: Box under antenna.002
+    2300040: brake
+    2300042: buzd_MeshPart0
+    2300044: buzd_MeshPart1
+    2300046: cabin
+    2300048: Central logarithmic antenna.000
+    2300050: Central logarithmic antenna.001
+    2300052: Chear
+    2300054: Chlen.001
+    2300056: Chlen.002
+    2300058: clutch
+    2300060: coil 4.000
+    2300062: coil 4.001
+    2300064: coil bottom
+    2300066: coil middle bottom
+    2300068: coil middle upper
+    2300070: coil upper
+    2300072: coils holder
+    2300074: Connector in chlen.001
+    2300076: Connector in chlen.002
+    2300078: Connector in logarithmic antenna.000
+    2300080: Connector in logarithmic antenna.001
+    2300082: Cube
+    2300084: Cup holder left
+    2300086: Cup holder right
+    2300088: curtain
+    2300090: curtain.003
+    2300092: curtain.004
+    2300094: Cylinder.000
+    2300096: Cylinder.016
+    2300098: derailleur
+    2300100: door buzd left rear
+    2300102: door buzd right rear
+    2300104: door buzd right rear.001
+    2300106: door cabin left
+    2300108: door cabin right
+    2300110: door handle buzd exterior
+    2300112: door handle buzd exterior left.001
+    2300114: door handle buzd inner
+    2300116: door handle buzd inner left.001
+    2300118: door handle cabin exterior left
+    2300120: door handle cabin exterior right
+    2300122: door handle cabin inner left
+    2300124: door handle cabin inner right
+    2300126: door wardrobe station left
+    2300128: door wardrobe station left.002
+    2300130: door wardrobe station right
+    2300132: door wardrobe station right.002
+    2300134: door window
+    2300136: door window left
+    2300138: door window raiser left
+    2300140: door window raiser right
+    2300142: door window right
+    2300144: door window.001
+    2300146: drive disk back left
+    2300148: drive disk front left
+    2300150: drive disk middle left
+    2300152: drive disk middle right
+    2300154: driver cabin lamp
+    2300156: driver lamp
+    2300158: Earthing 1
+    2300160: Earthing 2
+    2300162: electroshield
+    2300164: Feader 3Cap Down
+    2300166: Feader 3Cap Up
+    2300168: frame.001
+    2300170: front window
+    2300172: gas
+    2300174: Generator Left
+    2300176: Generator Right
+    2300178: glas.002
+    2300180: glas.003
+    2300182: Glass Holder Holder.001
+    2300184: Glass Holder Holder.002
+    2300186: Glass Holder.001
+    2300188: Glass Holder.002
+    2300190: grip handling rigth.000
+    2300192: grip handling rigth.002
+    2300194: grip handling rigth.003
+    2300196: grip handling rigth.004
+    2300198: grip handling rigth.005
+    2300200: grip handling rigth.006
+    2300202: grip handling rigth.007
+    2300204: grip handling rigth.008
+    2300206: grip handling rigth.009
+    2300208: grip handling rigth.010
+    2300210: grip handling rigth.011
+    2300212: grip handling rigth.012
+    2300214: grip handling.left.000
+    2300216: grip handling.left.002
+    2300218: grip handling.left.003
+    2300220: grip handling.left.004
+    2300222: grip handling.left.005
+    2300224: grip handling.left.006
+    2300226: grip handling.left.007
+    2300228: grip handling.left.008
+    2300230: grip handling.left.009
+    2300232: grip handling.left.010
+    2300234: grip handling.left.011
+    2300236: grip handling.left.012
+    2300238: grip left.000
+    2300240: grip left.002
+    2300242: grip left.003
+    2300244: grip left.004
+    2300246: grip left.005
+    2300248: grip left.006
+    2300250: grip left.007
+    2300252: grip left.008
+    2300254: grip left.009
+    2300256: grip left.010
+    2300258: grip left.011
+    2300260: grip left.012
+    2300262: grip rigth.000
+    2300264: grip rigth.002
+    2300266: grip rigth.003
+    2300268: grip rigth.004
+    2300270: grip rigth.005
+    2300272: grip rigth.006
+    2300274: grip rigth.007
+    2300276: grip rigth.008
+    2300278: grip rigth.009
+    2300280: grip rigth.010
+    2300282: grip rigth.011
+    2300284: grip rigth.012
+    2300286: handbrake
+    2300288: handset1
+    2300290: handset2
+    2300292: heft hoop with brake.000
+    2300294: heft hoop with brake.002
+    2300296: heft hoop with brake.003
+    2300298: heft hoop with brake.004
+    2300300: heft hoop with brake.005
+    2300302: heft hoop with brake.006
+    2300304: heft hoop with brake.007
+    2300306: heft hoop with brake.008
+    2300308: heft hoop with brake.009
+    2300310: heft hoop with brake.010
+    2300312: heft hoop with brake.011
+    2300314: heft hoop with brake.012
+    2300316: hood
+    2300318: iron_stick left
+    2300320: iron_stick right
+    2300322: keyboard.001
+    2300324: kung shelf
+    2300326: lamp
+    2300328: Lattice left side
+    2300330: Lattice left side.001
+    2300332: Lattice right side
+    2300334: Lattice right side.001
+    2300336: left case
+    2300338: left generator box side
+    2300340: left generator box top part
+    2300342: left half table box
+    2300344: left hoop.000
+    2300346: left hoop.002
+    2300348: left hoop.003
+    2300350: left hoop.004
+    2300352: left hoop.005
+    2300354: left hoop.006
+    2300356: left hoop.007
+    2300358: left hoop.008
+    2300360: left hoop.009
+    2300362: left hoop.010
+    2300364: left hoop.011
+    2300366: left hoop.012
+    2300368: left kung box
+    2300370: Left rotated stick.000
+    2300372: Left rotated stick.002
+    2300374: lighting front
+    2300376: lighting up
+    2300378: Long Box
+    2300380: Long Box Closer
+    2300382: Long Stack 1
+    2300384: Long Stack 1.001
+    2300386: Long Stack 2
+    2300388: Long Stack 2.001
+    2300390: Long Stack 3
+    2300392: Long Stack 3.001
+    2300394: Long Stack 4
+    2300396: Long Stack 4.001
+    2300398: Long Stack 5
+    2300400: Long Stack 5.001
+    2300402: Long Stack 6
+    2300404: Long Stack 6.001
+    2300406: Lower central bracket
+    2300408: Lower central bracket.001
+    2300410: Lower left logarithmic antenna
+    2300412: Lower left logarithmic antenna.001
+    2300414: Lower right logarithmic antenna
+    2300416: Lower right logarithmic antenna.001
+    2300418: Mast Carbine Holder 1 stage left
+    2300420: Mast Carbine Holder 1 stage right.001
+    2300422: Mast Carbine Holder 2 stage left
+    2300424: Mast Carbine Holder 2 stage right
+    2300426: Mast Carbine Holder 3 stage left
+    2300428: Mast Carbine Holder 3 stage right
+    2300430: Mast Carbine Holder 4 stage left
+    2300432: Mast Carbine Holder 4 stage right
+    2300434: mast exstention left
+    2300436: mast exstention right
+    2300438: mast exstention spinner left
+    2300440: mast exstention spinner right
+    2300442: mast exstention support left
+    2300444: mast exstention support right
+    2300446: mast extention fixture left
+    2300448: mast extention fixture right
+    2300450: Mast Fixture 1 right
+    2300452: Mast Stage 1 left
+    2300454: Mast Stage 2.1 left
+    2300456: Mast Stage 2.1 right
+    2300458: Mast Stage 2.2 left
+    2300460: Mast Stage 2.2 right
+    2300462: Mast Stage 3 left
+    2300464: Mast Stage 3 right
+    2300466: Mast Stage 4 left
+    2300468: Mast Stage 4 right
+    2300470: mirror left
+    2300472: mirror right
+    2300474: monitor.001
+    2300476: mouse
+    2300478: Network Filter
+    2300480: p-321
+    2300482: pickaxe.001
+    2300484: Plane.007
+    2300486: PowerBoardCap
+    2300488: right case
+    2300490: right half table box
+    2300492: right hoop with brake.000
+    2300494: right hoop with brake.002
+    2300496: right hoop with brake.003
+    2300498: right hoop with brake.004
+    2300500: right hoop with brake.005
+    2300502: right hoop with brake.006
+    2300504: right hoop with brake.007
+    2300506: right hoop with brake.008
+    2300508: right hoop with brake.009
+    2300510: right hoop with brake.010
+    2300512: right hoop with brake.011
+    2300514: right hoop with brake.012
+    2300516: right hoop.000
+    2300518: right hoop.002
+    2300520: right hoop.003
+    2300522: right hoop.004
+    2300524: right hoop.005
+    2300526: right hoop.006
+    2300528: right hoop.007
+    2300530: right hoop.008
+    2300532: right hoop.009
+    2300534: right hoop.010
+    2300536: right hoop.011
+    2300538: right hoop.012
+    2300540: right kung box
+    2300542: Right lower bracket.000
+    2300544: Right lower bracket.001
+    2300546: Right lower bracket.002
+    2300548: Right lower bracket.005
+    2300550: Right rotated stick.000
+    2300552: Right rotated stick.002
+    2300554: Right upper bracket.000
+    2300556: Right upper bracket.001
+    2300558: Right upper bracket.004
+    2300560: Right upper bracket.005
+    2300562: 'rigth generator box side '
+    2300564: rigth generator box top side
+    2300566: Rotator Left
+    2300568: seat
+    2300570: Short Door Closer
+    2300572: shovel.001
+    2300574: shovel.002
+    2300576: Side_door.000
+    2300578: Side_door.005
+    2300580: Side_door.006
+    2300582: Side_door.007
+    2300584: Side_door.008
+    2300586: Side_door.009
+    2300588: Small Stack 1
+    2300590: Small Stack 1.001
+    2300592: Small Stack 2
+    2300594: Small Stack 2.001
+    2300596: Small Stack 3
+    2300598: Small Stack 3.001
+    2300600: Small Stack 4
+    2300602: Small Stack 4.001
+    2300604: Small Stack 5
+    2300606: Small Stack 5.001
+    2300608: Small Stack 6
+    2300610: Small Stack 6.001
+    2300612: spare wheel
+    2300614: Stack
+    2300616: stairs
+    2300618: stake clamping.000
+    2300620: stake clamping.002
+    2300622: stake clamping.003
+    2300624: stake clamping.004
+    2300626: stake clamping.005
+    2300628: stake clamping.006
+    2300630: stake clamping.007
+    2300632: stake clamping.008
+    2300634: stake clamping.009
+    2300636: stake clamping.010
+    2300638: stake clamping.011
+    2300640: stake clamping.012
+    2300642: station on table
+    2300644: steering wheel
+    2300646: Stick1.000
+    2300648: Stick1.001
+    2300650: Stick1.002
+    2300652: Stick1.006
+    2300654: Stick1.007
+    2300656: Stick1.008
+    2300658: Supply Cable Bobbin Right
+    2300660: SupplyCableBobbinLeft
+    2300662: table base
+    2300664: table base.001
+    2300666: tabletop
+    2300668: 'tabletop '
+    2300670: telephone
+    2300672: tire back right
+    2300674: tire front right
+    2300676: top cover front
+    2300678: top cover front.001
+    2300680: top cover front.002
+    2300682: top cover front.003
+    2300684: transmission control
+    2300686: Upper central bracket
+    2300688: Upper central bracket.001
+    2300690: Upper central bracket.002
+    2300692: Upper left logarithmic antenna
+    2300694: Upper left logarithmic antenna.001
+    2300696: upper locker door.001
+    2300698: Upper right logarithmic antenna
+    2300700: Upper right logarithmic antenna.001
+    2300702: walkie-talkie
+    2300704: Wall
+    2300706: wardrobe station
+    2300708: wardrobe station right first box
+    2300710: wardrobe station.002
+    2300712: Warhummer Left
+    2300714: Warhummer Right
+    2300716: wheel mounting
+    2300718: Whip antenna.001
+    2300720: Whip antenna.002
+    2300722: windscreen wiper
+    3300000: Antenna bracing.001
+    3300002: Antenna bracing.002
+    3300004: blinker front left
+    3300006: blinker front right
+    3300008: blinker left left
+    3300010: blinker right right
+    3300012: bottom locker door left.001
+    3300014: bottom locker door left.002
+    3300016: bottom locker door left.003
+    3300018: bottom locker door left.004
+    3300020: bottom locker door right
+    3300022: bottom locker door right.001
+    3300024: bottom locker door right.002
+    3300026: bottom locker door right.004
+    3300028: bottom locker door.001
+    3300030: bottom part
+    3300032: bottom part.001
+    3300034: bottom part.003
+    3300036: Box under antenna.001
+    3300038: Box under antenna.002
+    3300040: brake
+    3300042: buzd_MeshPart0
+    3300044: buzd_MeshPart1
+    3300046: cabin
+    3300048: Central logarithmic antenna.000
+    3300050: Central logarithmic antenna.001
+    3300052: Chear
+    3300054: Chlen.001
+    3300056: Chlen.002
+    3300058: clutch
+    3300060: coil 4.000
+    3300062: coil 4.001
+    3300064: coil bottom
+    3300066: coil middle bottom
+    3300068: coil middle upper
+    3300070: coil upper
+    3300072: coils holder
+    3300074: Connector in chlen.001
+    3300076: Connector in chlen.002
+    3300078: Connector in logarithmic antenna.000
+    3300080: Connector in logarithmic antenna.001
+    3300082: Cube
+    3300084: Cup holder left
+    3300086: Cup holder right
+    3300088: curtain
+    3300090: curtain.003
+    3300092: curtain.004
+    3300094: Cylinder.000
+    3300096: Cylinder.016
+    3300098: derailleur
+    3300100: door buzd left rear
+    3300102: door buzd right rear
+    3300104: door buzd right rear.001
+    3300106: door cabin left
+    3300108: door cabin right
+    3300110: door handle buzd exterior
+    3300112: door handle buzd exterior left.001
+    3300114: door handle buzd inner
+    3300116: door handle buzd inner left.001
+    3300118: door handle cabin exterior left
+    3300120: door handle cabin exterior right
+    3300122: door handle cabin inner left
+    3300124: door handle cabin inner right
+    3300126: door wardrobe station left
+    3300128: door wardrobe station left.002
+    3300130: door wardrobe station right
+    3300132: door wardrobe station right.002
+    3300134: door window
+    3300136: door window left
+    3300138: door window raiser left
+    3300140: door window raiser right
+    3300142: door window right
+    3300144: door window.001
+    3300146: drive disk back left
+    3300148: drive disk front left
+    3300150: drive disk middle left
+    3300152: drive disk middle right
+    3300154: driver cabin lamp
+    3300156: driver lamp
+    3300158: Earthing 1
+    3300160: Earthing 2
+    3300162: electroshield
+    3300164: Feader 3Cap Down
+    3300166: Feader 3Cap Up
+    3300168: frame.001
+    3300170: front window
+    3300172: gas
+    3300174: Generator Left
+    3300176: Generator Right
+    3300178: glas.002
+    3300180: glas.003
+    3300182: Glass Holder Holder.001
+    3300184: Glass Holder Holder.002
+    3300186: Glass Holder.001
+    3300188: Glass Holder.002
+    3300190: grip handling rigth.000
+    3300192: grip handling rigth.002
+    3300194: grip handling rigth.003
+    3300196: grip handling rigth.004
+    3300198: grip handling rigth.005
+    3300200: grip handling rigth.006
+    3300202: grip handling rigth.007
+    3300204: grip handling rigth.008
+    3300206: grip handling rigth.009
+    3300208: grip handling rigth.010
+    3300210: grip handling rigth.011
+    3300212: grip handling rigth.012
+    3300214: grip handling.left.000
+    3300216: grip handling.left.002
+    3300218: grip handling.left.003
+    3300220: grip handling.left.004
+    3300222: grip handling.left.005
+    3300224: grip handling.left.006
+    3300226: grip handling.left.007
+    3300228: grip handling.left.008
+    3300230: grip handling.left.009
+    3300232: grip handling.left.010
+    3300234: grip handling.left.011
+    3300236: grip handling.left.012
+    3300238: grip left.000
+    3300240: grip left.002
+    3300242: grip left.003
+    3300244: grip left.004
+    3300246: grip left.005
+    3300248: grip left.006
+    3300250: grip left.007
+    3300252: grip left.008
+    3300254: grip left.009
+    3300256: grip left.010
+    3300258: grip left.011
+    3300260: grip left.012
+    3300262: grip rigth.000
+    3300264: grip rigth.002
+    3300266: grip rigth.003
+    3300268: grip rigth.004
+    3300270: grip rigth.005
+    3300272: grip rigth.006
+    3300274: grip rigth.007
+    3300276: grip rigth.008
+    3300278: grip rigth.009
+    3300280: grip rigth.010
+    3300282: grip rigth.011
+    3300284: grip rigth.012
+    3300286: handbrake
+    3300288: handset1
+    3300290: handset2
+    3300292: heft hoop with brake.000
+    3300294: heft hoop with brake.002
+    3300296: heft hoop with brake.003
+    3300298: heft hoop with brake.004
+    3300300: heft hoop with brake.005
+    3300302: heft hoop with brake.006
+    3300304: heft hoop with brake.007
+    3300306: heft hoop with brake.008
+    3300308: heft hoop with brake.009
+    3300310: heft hoop with brake.010
+    3300312: heft hoop with brake.011
+    3300314: heft hoop with brake.012
+    3300316: hood
+    3300318: iron_stick left
+    3300320: iron_stick right
+    3300322: keyboard.001
+    3300324: kung shelf
+    3300326: lamp
+    3300328: Lattice left side
+    3300330: Lattice left side.001
+    3300332: Lattice right side
+    3300334: Lattice right side.001
+    3300336: left case
+    3300338: left generator box side
+    3300340: left generator box top part
+    3300342: left half table box
+    3300344: left hoop.000
+    3300346: left hoop.002
+    3300348: left hoop.003
+    3300350: left hoop.004
+    3300352: left hoop.005
+    3300354: left hoop.006
+    3300356: left hoop.007
+    3300358: left hoop.008
+    3300360: left hoop.009
+    3300362: left hoop.010
+    3300364: left hoop.011
+    3300366: left hoop.012
+    3300368: left kung box
+    3300370: Left rotated stick.000
+    3300372: Left rotated stick.002
+    3300374: lighting front
+    3300376: lighting up
+    3300378: Long Box
+    3300380: Long Box Closer
+    3300382: Long Stack 1
+    3300384: Long Stack 1.001
+    3300386: Long Stack 2
+    3300388: Long Stack 2.001
+    3300390: Long Stack 3
+    3300392: Long Stack 3.001
+    3300394: Long Stack 4
+    3300396: Long Stack 4.001
+    3300398: Long Stack 5
+    3300400: Long Stack 5.001
+    3300402: Long Stack 6
+    3300404: Long Stack 6.001
+    3300406: Lower central bracket
+    3300408: Lower central bracket.001
+    3300410: Lower left logarithmic antenna
+    3300412: Lower left logarithmic antenna.001
+    3300414: Lower right logarithmic antenna
+    3300416: Lower right logarithmic antenna.001
+    3300418: Mast Carbine Holder 1 stage left
+    3300420: Mast Carbine Holder 1 stage right.001
+    3300422: Mast Carbine Holder 2 stage left
+    3300424: Mast Carbine Holder 2 stage right
+    3300426: Mast Carbine Holder 3 stage left
+    3300428: Mast Carbine Holder 3 stage right
+    3300430: Mast Carbine Holder 4 stage left
+    3300432: Mast Carbine Holder 4 stage right
+    3300434: mast exstention left
+    3300436: mast exstention right
+    3300438: mast exstention spinner left
+    3300440: mast exstention spinner right
+    3300442: mast exstention support left
+    3300444: mast exstention support right
+    3300446: mast extention fixture left
+    3300448: mast extention fixture right
+    3300450: Mast Fixture 1 right
+    3300452: Mast Stage 1 left
+    3300454: Mast Stage 2.1 left
+    3300456: Mast Stage 2.1 right
+    3300458: Mast Stage 2.2 left
+    3300460: Mast Stage 2.2 right
+    3300462: Mast Stage 3 left
+    3300464: Mast Stage 3 right
+    3300466: Mast Stage 4 left
+    3300468: Mast Stage 4 right
+    3300470: mirror left
+    3300472: mirror right
+    3300474: monitor.001
+    3300476: mouse
+    3300478: Network Filter
+    3300480: p-321
+    3300482: pickaxe.001
+    3300484: Plane.007
+    3300486: PowerBoardCap
+    3300488: right case
+    3300490: right half table box
+    3300492: right hoop with brake.000
+    3300494: right hoop with brake.002
+    3300496: right hoop with brake.003
+    3300498: right hoop with brake.004
+    3300500: right hoop with brake.005
+    3300502: right hoop with brake.006
+    3300504: right hoop with brake.007
+    3300506: right hoop with brake.008
+    3300508: right hoop with brake.009
+    3300510: right hoop with brake.010
+    3300512: right hoop with brake.011
+    3300514: right hoop with brake.012
+    3300516: right hoop.000
+    3300518: right hoop.002
+    3300520: right hoop.003
+    3300522: right hoop.004
+    3300524: right hoop.005
+    3300526: right hoop.006
+    3300528: right hoop.007
+    3300530: right hoop.008
+    3300532: right hoop.009
+    3300534: right hoop.010
+    3300536: right hoop.011
+    3300538: right hoop.012
+    3300540: right kung box
+    3300542: Right lower bracket.000
+    3300544: Right lower bracket.001
+    3300546: Right lower bracket.002
+    3300548: Right lower bracket.005
+    3300550: Right rotated stick.000
+    3300552: Right rotated stick.002
+    3300554: Right upper bracket.000
+    3300556: Right upper bracket.001
+    3300558: Right upper bracket.004
+    3300560: Right upper bracket.005
+    3300562: 'rigth generator box side '
+    3300564: rigth generator box top side
+    3300566: Rotator Left
+    3300568: seat
+    3300570: Short Door Closer
+    3300572: shovel.001
+    3300574: shovel.002
+    3300576: Side_door.000
+    3300578: Side_door.005
+    3300580: Side_door.006
+    3300582: Side_door.007
+    3300584: Side_door.008
+    3300586: Side_door.009
+    3300588: Small Stack 1
+    3300590: Small Stack 1.001
+    3300592: Small Stack 2
+    3300594: Small Stack 2.001
+    3300596: Small Stack 3
+    3300598: Small Stack 3.001
+    3300600: Small Stack 4
+    3300602: Small Stack 4.001
+    3300604: Small Stack 5
+    3300606: Small Stack 5.001
+    3300608: Small Stack 6
+    3300610: Small Stack 6.001
+    3300612: spare wheel
+    3300614: Stack
+    3300616: stairs
+    3300618: stake clamping.000
+    3300620: stake clamping.002
+    3300622: stake clamping.003
+    3300624: stake clamping.004
+    3300626: stake clamping.005
+    3300628: stake clamping.006
+    3300630: stake clamping.007
+    3300632: stake clamping.008
+    3300634: stake clamping.009
+    3300636: stake clamping.010
+    3300638: stake clamping.011
+    3300640: stake clamping.012
+    3300642: station on table
+    3300644: steering wheel
+    3300646: Stick1.000
+    3300648: Stick1.001
+    3300650: Stick1.002
+    3300652: Stick1.006
+    3300654: Stick1.007
+    3300656: Stick1.008
+    3300658: Supply Cable Bobbin Right
+    3300660: SupplyCableBobbinLeft
+    3300662: table base
+    3300664: table base.001
+    3300666: tabletop
+    3300668: 'tabletop '
+    3300670: telephone
+    3300672: tire back right
+    3300674: tire front right
+    3300676: top cover front
+    3300678: top cover front.001
+    3300680: top cover front.002
+    3300682: top cover front.003
+    3300684: transmission control
+    3300686: Upper central bracket
+    3300688: Upper central bracket.001
+    3300690: Upper central bracket.002
+    3300692: Upper left logarithmic antenna
+    3300694: Upper left logarithmic antenna.001
+    3300696: upper locker door.001
+    3300698: Upper right logarithmic antenna
+    3300700: Upper right logarithmic antenna.001
+    3300702: walkie-talkie
+    3300704: Wall
+    3300706: wardrobe station
+    3300708: wardrobe station right first box
+    3300710: wardrobe station.002
+    3300712: Warhummer Left
+    3300714: Warhummer Right
+    3300716: wheel mounting
+    3300718: Whip antenna.001
+    3300720: Whip antenna.002
+    3300722: windscreen wiper
+    4300000: Upper right logarithmic antenna.001
+    4300002: Lower left logarithmic antenna.001
+    4300004: Upper central bracket.001
+    4300006: Lower right logarithmic antenna.001
+    4300008: Upper left logarithmic antenna.001
+    4300010: Lower central bracket.001
+    4300012: Lattice right side.001
+    4300014: Right upper bracket.001
+    4300016: Right lower bracket.001
+    4300018: Lattice left side.001
+    4300020: Right upper bracket.000
+    4300022: Right lower bracket.000
+    4300024: Connector in logarithmic antenna.000
+    4300026: Central logarithmic antenna.000
+    4300028: Right rotated stick.000
+    4300030: Left rotated stick.000
+    4300032: blinker front left
+    4300034: blinker front right
+    4300036: blinker left left
+    4300038: blinker right right
+    4300040: driver cabin lamp
+    4300042: driver lamp
+    4300044: lighting front
+    4300046: lighting up
+    4300048: Cube
+    4300050: Long Stack 1
+    4300052: Long Stack 2
+    4300054: Long Stack 3
+    4300056: Long Stack 4
+    4300058: Long Stack 5
+    4300060: Long Stack 6
+    4300062: Plane.007
+    4300064: Short Door Closer
+    4300066: Long Stack 1.001
+    4300068: Long Stack 2.001
+    4300070: Long Stack 3.001
+    4300072: Long Stack 4.001
+    4300074: Long Stack 5.001
+    4300076: Long Stack 6.001
+    4300078: coils holder
+    4300080: coil bottom
+    4300082: door buzd left rear
+    4300084: curtain
+    4300086: door buzd right rear
+    4300088: door handle buzd exterior
+    4300090: door handle buzd inner
+    4300092: door window
+    4300094: Earthing 1
+    4300096: Earthing 2
+    4300098: electroshield
+    4300100: Feader 3Cap Down
+    4300102: Feader 3Cap Up
+    4300104: Network Filter
+    4300106: PowerBoardCap
+    4300108: shovel.001
+    4300110: Side_door.005
+    4300112: Side_door.006
+    4300114: Side_door.007
+    4300116: Side_door.008
+    4300118: Side_door.009
+    4300120: Long Box
+    4300122: Long Box Closer
+    4300124: Small Stack 1
+    4300126: Small Stack 2
+    4300128: Small Stack 3
+    4300130: Small Stack 4
+    4300132: Small Stack 5
+    4300134: Small Stack 6
+    4300136: Small Stack 6.001
+    4300138: Small Stack 1.001
+    4300140: Small Stack 2.001
+    4300142: Small Stack 3.001
+    4300144: Small Stack 4.001
+    4300146: Small Stack 5.001
+    4300148: Stack
+    4300150: top cover front
+    4300152: top cover front.001
+    4300154: top cover front.002
+    4300156: top cover front.003
+    4300158: frame.001
+    4300160: glas.002
+    4300162: glas.003
+    4300164: Chear
+    4300166: Wall
+    4300168: left kung box
+    4300170: right kung box
+    4300172: spare wheel
+    4300174: wheel mounting
+    4300176: pickaxe.001
+    4300178: shovel.002
+    4300180: curtain.003
+    4300182: curtain.004
+    4300184: door buzd right rear.001
+    4300186: door handle buzd exterior left.001
+    4300188: door handle buzd inner left.001
+    4300190: door window.001
+    4300192: Cylinder.000
+    4300194: Cylinder.016
+    4300196: Generator Left
+    4300198: Generator Right
+    4300200: coil 4.000
+    4300202: stairs
+    4300204: left generator box side
+    4300206: left generator box top part
+    4300208: 'rigth generator box side '
+    4300210: rigth generator box top side
+    4300212: Side_door.000
+    4300214: buzd_MeshPart0
+    4300216: buzd_MeshPart1
+    4300218: kung shelf
+    4300220: bottom locker door left.003
+    4300222: bottom locker door left.004
+    4300224: bottom locker door right.001
+    4300226: bottom locker door right.004
+    4300228: left half table box
+    4300230: right half table box
+    4300232: 'tabletop '
+    4300234: p-321
+    4300236: bottom locker door left.001
+    4300238: bottom locker door right
+    4300240: handset1
+    4300242: handset2
+    4300244: keyboard.001
+    4300246: lamp
+    4300248: monitor.001
+    4300250: mouse
+    4300252: station on table
+    4300254: table base.001
+    4300256: telephone
+    4300258: walkie-talkie
+    4300260: bottom locker door.001
+    4300262: upper locker door.001
+    4300264: wardrobe station right first box
+    4300266: door wardrobe station left
+    4300268: door wardrobe station right
+    4300270: wardrobe station
+    4300272: door wardrobe station left.002
+    4300274: door wardrobe station right.002
+    4300276: wardrobe station.002
+    4300278: bottom locker door left.002
+    4300280: bottom locker door right.002
+    4300282: left case
+    4300284: right case
+    4300286: table base
+    4300288: tabletop
+    4300290: mast exstention left
+    4300292: mast exstention spinner left
+    4300294: mast exstention support left
+    4300296: Cup holder left
+    4300298: Mast Carbine Holder 1 stage left
+    4300300: Mast Stage 1 left
+    4300302: Mast Carbine Holder 2 stage left
+    4300304: Mast Stage 2.1 left
+    4300306: Mast Stage 2.2 left
+    4300308: Mast Carbine Holder 3 stage left
+    4300310: Mast Stage 3 left
+    4300312: Mast Carbine Holder 4 stage left
+    4300314: Mast Stage 4 left
+    4300316: mast extention fixture left
+    4300318: mast exstention right
+    4300320: mast exstention spinner right
+    4300322: mast exstention support right
+    4300324: Cup holder right
+    4300326: Mast Carbine Holder 1 stage right.001
+    4300328: Mast Fixture 1 right
+    4300330: Mast Carbine Holder 2 stage right
+    4300332: Mast Stage 2.1 right
+    4300334: Mast Stage 2.2 right
+    4300336: Mast Carbine Holder 3 stage right
+    4300338: Mast Stage 3 right
+    4300340: Mast Carbine Holder 4 stage right
+    4300342: Mast Stage 4 right
+    4300344: mast extention fixture right
+    4300346: coil 4.001
+    4300348: Glass Holder Holder.002
+    4300350: Glass Holder.002
+    4300352: Glass Holder.001
+    4300354: Glass Holder Holder.001
+    4300356: bottom part.001
+    4300358: Stick1.000
+    4300360: Stick1.001
+    4300362: Stick1.002
+    4300364: bottom part.003
+    4300366: Stick1.006
+    4300368: Stick1.007
+    4300370: Stick1.008
+    4300372: grip handling rigth.000
+    4300374: grip handling.left.000
+    4300376: grip left.000
+    4300378: grip rigth.000
+    4300380: heft hoop with brake.000
+    4300382: left hoop.000
+    4300384: right hoop with brake.000
+    4300386: right hoop.000
+    4300388: stake clamping.000
+    4300390: grip handling rigth.002
+    4300392: grip handling.left.002
+    4300394: grip left.002
+    4300396: grip rigth.002
+    4300398: heft hoop with brake.002
+    4300400: left hoop.002
+    4300402: right hoop with brake.002
+    4300404: right hoop.002
+    4300406: stake clamping.002
+    4300408: grip handling rigth.003
+    4300410: grip handling.left.003
+    4300412: grip left.003
+    4300414: grip rigth.003
+    4300416: heft hoop with brake.003
+    4300418: left hoop.003
+    4300420: right hoop with brake.003
+    4300422: right hoop.003
+    4300424: stake clamping.003
+    4300426: grip handling rigth.004
+    4300428: grip handling.left.004
+    4300430: grip left.004
+    4300432: grip rigth.004
+    4300434: heft hoop with brake.004
+    4300436: left hoop.004
+    4300438: right hoop with brake.004
+    4300440: right hoop.004
+    4300442: stake clamping.004
+    4300444: grip handling rigth.005
+    4300446: grip handling.left.005
+    4300448: grip left.005
+    4300450: grip rigth.005
+    4300452: heft hoop with brake.005
+    4300454: left hoop.005
+    4300456: right hoop with brake.005
+    4300458: right hoop.005
+    4300460: stake clamping.005
+    4300462: grip handling rigth.006
+    4300464: grip handling.left.006
+    4300466: grip left.006
+    4300468: grip rigth.006
+    4300470: heft hoop with brake.006
+    4300472: left hoop.006
+    4300474: right hoop with brake.006
+    4300476: right hoop.006
+    4300478: stake clamping.006
+    4300480: grip handling rigth.011
+    4300482: grip handling.left.011
+    4300484: grip left.011
+    4300486: grip rigth.011
+    4300488: heft hoop with brake.011
+    4300490: left hoop.011
+    4300492: right hoop with brake.011
+    4300494: right hoop.011
+    4300496: stake clamping.011
+    4300498: grip handling rigth.007
+    4300500: grip handling.left.007
+    4300502: grip left.007
+    4300504: grip rigth.007
+    4300506: heft hoop with brake.007
+    4300508: left hoop.007
+    4300510: right hoop with brake.007
+    4300512: right hoop.007
+    4300514: stake clamping.007
+    4300516: grip handling rigth.008
+    4300518: grip handling.left.008
+    4300520: grip left.008
+    4300522: grip rigth.008
+    4300524: heft hoop with brake.008
+    4300526: left hoop.008
+    4300528: right hoop with brake.008
+    4300530: right hoop.008
+    4300532: stake clamping.008
+    4300534: grip handling rigth.009
+    4300536: grip handling.left.009
+    4300538: grip left.009
+    4300540: grip rigth.009
+    4300542: heft hoop with brake.009
+    4300544: left hoop.009
+    4300546: right hoop with brake.009
+    4300548: right hoop.009
+    4300550: stake clamping.009
+    4300552: grip handling rigth.010
+    4300554: grip handling.left.010
+    4300556: grip left.010
+    4300558: grip rigth.010
+    4300560: heft hoop with brake.010
+    4300562: left hoop.010
+    4300564: right hoop with brake.010
+    4300566: right hoop.010
+    4300568: stake clamping.010
+    4300570: grip handling rigth.012
+    4300572: grip handling.left.012
+    4300574: grip left.012
+    4300576: grip rigth.012
+    4300578: heft hoop with brake.012
+    4300580: left hoop.012
+    4300582: right hoop with brake.012
+    4300584: right hoop.012
+    4300586: stake clamping.012
+    4300588: Rotator Left
+    4300590: Supply Cable Bobbin Right
+    4300592: SupplyCableBobbinLeft
+    4300594: Warhummer Left
+    4300596: Warhummer Right
+    4300598: iron_stick left
+    4300600: iron_stick right
+    4300602: cabin
+    4300604: brake
+    4300606: clutch
+    4300608: derailleur
+    4300610: gas
+    4300612: handbrake
+    4300614: steering wheel
+    4300616: transmission control
+    4300618: door cabin left
+    4300620: door handle cabin exterior left
+    4300622: door handle cabin inner left
+    4300624: door window left
+    4300626: door window raiser left
+    4300628: door cabin right
+    4300630: door handle cabin exterior right
+    4300632: door handle cabin inner right
+    4300634: door window raiser right
+    4300636: door window right
+    4300638: front window
+    4300640: hood
+    4300642: seat
+    4300644: windscreen wiper
+    4300646: bottom part
+    4300648: mirror left
+    4300650: mirror right
+    4300652: drive disk back left
+    4300654: Antenna bracing.002
+    4300656: Box under antenna.002
+    4300658: Chlen.002
+    4300660: Connector in chlen.002
+    4300662: Whip antenna.002
+    4300664: Antenna bracing.001
+    4300666: Box under antenna.001
+    4300668: Chlen.001
+    4300670: Connector in chlen.001
+    4300672: Whip antenna.001
+    4300674: Central logarithmic antenna.001
+    4300676: Left rotated stick.002
+    4300678: Right rotated stick.002
+    4300680: Connector in logarithmic antenna.001
+    4300682: Lattice left side
+    4300684: Right lower bracket.005
+    4300686: Right upper bracket.005
+    4300688: Lattice right side
+    4300690: Right lower bracket.002
+    4300692: Right upper bracket.004
+    4300694: Lower central bracket
+    4300696: Upper left logarithmic antenna
+    4300698: Lower right logarithmic antenna
+    4300700: Upper central bracket
+    4300702: Lower left logarithmic antenna
+    4300704: Upper right logarithmic antenna
+    4300706: Upper central bracket.002
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F6004BAS.000
+    second: {fileID: 2100000, guid: cbab47bbb8a8bab4cb495c32b16b92a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F6004BLA.000
+    second: {fileID: 2100000, guid: 6d5f9d7108795be48acee854bd71c5ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F6004BO0.000
+    second: {fileID: 2100000, guid: a93e03e48e6fe964295535e7b9049d24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F6004BO1.000
+    second: {fileID: 2100000, guid: 08dc29d6bf54b094fa113633ffdc2985, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F6004BO2.000
+    second: {fileID: 2100000, guid: e1b1ff270cbdece4ebc617079bea5dc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F6004BO3.000
+    second: {fileID: 2100000, guid: 08e7411d610be3942b6ac12a4d0a2ea2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F6004BO4.000
+    second: {fileID: 2100000, guid: 4f0b222c75e064b4caaa7c4e43158564, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F6004BO5.000
+    second: {fileID: 2100000, guid: d82a31be66d2eea4887aedbdd2e406ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F6004BO6.000
+    second: {fileID: 2100000, guid: 3694b5e5e0cfd874cb90752f0611f95d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F6004BO7.000
+    second: {fileID: 2100000, guid: 2f5e6e49f59270341b8052e50d2abcae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F6004BO8.000
+    second: {fileID: 2100000, guid: 7009c340194e67a4198d508a65c20e67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F6004BO9.000
+    second: {fileID: 2100000, guid: 235210d809314394cbd6b0540bea6253, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F6004BOL.000
+    second: {fileID: 2100000, guid: 19ee7c9394f575d4c8d388a0d38cd2f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F6004BON.000
+    second: {fileID: 2100000, guid: eacdd4409c0b039449b6a3a25a21c158, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F6004BSI.000
+    second: {fileID: 2100000, guid: ceef530ac1a5b1e4f8dcf1c5d39f763a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F6004CAB.000
+    second: {fileID: 2100000, guid: cda854f15652f524bac426c98c8314c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F6004FOR.000
+    second: {fileID: 2100000, guid: 8358481d9048c6342b9985683798aafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F6004TEL.000
+    second: {fileID: 2100000, guid: 91cad2a58fd442d4e820588e4e54cd37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F6004TEL1.000
+    second: {fileID: 2100000, guid: 2aa66554823a5934da95825a13420e1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F6004TES.000
+    second: {fileID: 2100000, guid: 4fd288cc9defaa14e8b0d21c8459a238, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #37.003'
+    second: {fileID: 2100000, guid: 23a6bf644602d4d4990f3f3c74d020cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #39.003'
+    second: {fileID: 2100000, guid: 13cf9938fe2f76b4a992d5ffe6c2f593, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.000
+    second: {fileID: 2100000, guid: e813ad0a3a3bd914480d78b65cce14d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 3cf27e9a1d9f6324a875783d4f1df0aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 13f908c4e99129742b0f362e130ca6c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_1.014
+    second: {fileID: 2100000, guid: 61d82349cab865e4eaf18d8fa0eac28c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_1.015
+    second: {fileID: 2100000, guid: 876cc22d5430dec46a36303826cb7a4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_1.016
+    second: {fileID: 2100000, guid: ab2d88422f31986429bf2037ee15caad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_1.017
+    second: {fileID: 2100000, guid: cd23d89e6da44a546bc7431cbfa51cbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_p_RE1_radio.dds.000
+    second: {fileID: 2100000, guid: ef1f940ec61ed37448b17a2bedc5f41d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte_ FF000000.002
+    second: {fileID: 2100000, guid: 443cd456570611241ae05749b17362a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 9c7b473c971eae848a2de3256c500712, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: font-lights.003
+    second: {fileID: 2100000, guid: 56e70d2cebf367e4180e967bf41b9a04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green-army-metal-material.000
+    second: {fileID: 2100000, guid: e6331f83d2e570145888a931fb34e56f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green-army-metal-material.001
+    second: {fileID: 2100000, guid: 622f56e76c821fe488a8e9082f87975d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green-army-metal-material.003
+    second: {fileID: 2100000, guid: 324d2efcac0d1794f9745805384177a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green-army-metal-material.021
+    second: {fileID: 2100000, guid: 60a4d2f642519904bb97624df225c3d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green-army-metal-material.044
+    second: {fileID: 2100000, guid: 245c24571addec04c9325d804b695934, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green-army-metal-material.045
+    second: {fileID: 2100000, guid: 4a0a4c9a93d958e4aa2324f8e0495547, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green-army-metal-material.046
+    second: {fileID: 2100000, guid: ab9d91d08202ca640993cf65232ba82f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green-army-metal-material.047
+    second: {fileID: 2100000, guid: 83909736f9b90f04cb2be504279657bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green-army-metal-material.048
+    second: {fileID: 2100000, guid: 0c81fa1c306875b4286bd25f55a6786b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green-army-metal-material.049
+    second: {fileID: 2100000, guid: 5c2a072ffc3cf984fbfc8b31f2ec90a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green-army-metal-material.050
+    second: {fileID: 2100000, guid: 7342a16abd0b90c43b90080430998529, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green-army-metal-material.051
+    second: {fileID: 2100000, guid: 3e4fb79a36693db4396eea2feeeb81bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green-army-metal-material.052
+    second: {fileID: 2100000, guid: 871a745bcb4dac1458802613ce59754c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green-army-metal-material.053
+    second: {fileID: 2100000, guid: c8ea31994a1268546a65ac64e5a6186a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green-army-metal-material.054
+    second: {fileID: 2100000, guid: 7009935cdb7b0484e96d9ae4c7510972, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green-army-metal-material.055
+    second: {fileID: 2100000, guid: faf3c6bfd03b0c048bfd10061bc9a591, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green-army-metal-material.056
+    second: {fileID: 2100000, guid: 6249b573af849cb4dbfcbefcb4dd8386, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green-army-metal-material.057
+    second: {fileID: 2100000, guid: 6c633d3bc2c66f6419db59bc665af1e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material [env,s.003
+    second: {fileID: 2100000, guid: 3a7929b358610294a97a74bc4224ca7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong1SG.003
+    second: {fileID: 2100000, guid: 39fbe1ef14922424dbde101faf386b4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong2SG.003
+    second: {fileID: 2100000, guid: 5c1a0f2a916b6c54fa8ade28fbd62f69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rul [env,spec].002
+    second: {fileID: 2100000, guid: f968f8ed0b2385346acdb6de0ef514b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: simple-glass-material.005
+    second: {fileID: 2100000, guid: bdb15623c5cdba047868f93d34649266, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: simple-glass-material.006
+    second: {fileID: 2100000, guid: 715e617a74b62e849a3a395ac67fac56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: simple-mirrow-material.003
+    second: {fileID: 2100000, guid: 17b98e4144a085347abc4216058c8b63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sp_kolesa [env,.007
+    second: {fileID: 2100000, guid: 5511bd0c75794384a91eb605a76d853e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sp_kolesa [env,.008
+    second: {fileID: 2100000, guid: 7fd730fc9444d89439fd2ae5328fae12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sp_pribors [env.002
+    second: {fileID: 2100000, guid: 43b6c4adc71bab24bad657b1e0598b49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: undernith-dark-material.000
+    second: {fileID: 2100000, guid: 281676115ab34e2499861c0eaddd633b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: undernith-dark-material.001
+    second: {fileID: 2100000, guid: 64c5b8156ea62ba488aede68bc6ab6e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: undernith-dark-material.002
+    second: {fileID: 2100000, guid: 2b9f63f389d53dc4dbbeedad6a38d185, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: undernith-dark-material.003
+    second: {fileID: 2100000, guid: 82569534f3e0b524f98db19874586cb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: undernith-dark-material.004
+    second: {fileID: 2100000, guid: b07c5a881e6c440479968197661a3fb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: undernith-dark-material.005
+    second: {fileID: 2100000, guid: c1e911225e5d4864caa12657bdee81e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: undernith-dark-material.006
+    second: {fileID: 2100000, guid: e2d259270bff5ae45aff942281b61607, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: undernith-dark-material.020
+    second: {fileID: 2100000, guid: fe5ce7baf6da78540ab39c47f7e9c871, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: undernith-dark-material.023
+    second: {fileID: 2100000, guid: 4066196ae02c5464f9b84c340bd7c767, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: undernith-dark-material.024
+    second: {fileID: 2100000, guid: bb68d31dc3f7b3c4a8fb4691e67f809e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vehiclelights02.003
+    second: {fileID: 2100000, guid: 01736d8aee8deae4d831ad44d9133259, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vsacoe [env,spe.002
+    second: {fileID: 2100000, guid: f198a59b5bca7ca4a8e06c962d402cc7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
