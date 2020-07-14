@@ -33,6 +33,7 @@ ModelImporter:
     2300012: Box019
     2300014: Box020
     2300016: Box021
+    2300018: //RootNode
     3300000: Box001
     3300002: Box002
     3300004: Box003
@@ -42,6 +43,7 @@ ModelImporter:
     3300012: Box019
     3300014: Box020
     3300016: Box021
+    3300018: //RootNode
     4300000: Box001
     4300002: Box002
     4300004: Box003
@@ -51,6 +53,7 @@ ModelImporter:
     4300012: Box019
     4300014: Box020
     4300016: Box021
+    4300018: install_plate
   externalObjects: {}
   materials:
     importMaterials: 1
