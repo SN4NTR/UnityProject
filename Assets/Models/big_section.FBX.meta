@@ -124,6 +124,7 @@ ModelImporter:
     2300072: Box058
     2300074: Box059
     2300076: Building_F024
+    2300078: //RootNode
     3300000: Box022
     3300002: Box023
     3300004: Box024
@@ -163,6 +164,7 @@ ModelImporter:
     3300072: Box058
     3300074: Box059
     3300076: Building_F024
+    3300078: //RootNode
     4300000: Building_F024
     4300002: Box022
     4300004: Box023
@@ -202,6 +204,7 @@ ModelImporter:
     4300072: Box057
     4300074: Box058
     4300076: Box059
+    4300078: stanok
     7400000: Take 001
     9500000: //RootNode
   externalObjects: {}
