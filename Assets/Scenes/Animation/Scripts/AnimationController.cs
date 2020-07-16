@@ -1,31 +1,39 @@
 ﻿using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class AnimationController : MonoBehaviour
 {
-    private Animator animator;
-    private Boolean isAnimating = false;
+    private const string IS_ANIMATING_VARIABLE_NAME = "isAnimating";
 
-    // Start is called before the first frame update
+    private Animator animator;
+    private bool isAnimating = false;
+
     void Start()
     {
         animator = GetComponent<Animator>();
     }
 
-    // Update is called once per frame
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.E) && !isAnimating)
         {
-            animator.SetBool("isAnimating", true);
-            isAnimating = true;
+            StartAnimation();
         }
         else if (Input.GetKeyDown(KeyCode.E) && isAnimating)
         {
-            animator.SetBool("isAnimating", false);
-            isAnimating = false;
+            StopAnimation();
         }
+    }
+
+    private void StartAnimation()
+    {
+        animator.SetBool(IS_ANIMATING_VARIABLE_NAME, true);
+        isAnimating = true;
+    }
+
+    private void StopAnimation()
+    {
+        animator.SetBool("isAnimating", false);
+        isAnimating = false;
     }
 }
